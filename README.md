@@ -1,4 +1,4 @@
-<img src="https://pt.lovepik.com/image-833552788/mbe-style-campus-recruitment-business-company-programmer-vector.html">
+<img src="https://pt.lovepik.com/image-833552788/mbe-style-campus-recruitment-business-company-programmer-vector">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
