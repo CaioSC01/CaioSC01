@@ -11,4 +11,4 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSC01&layout=compact&langs_count=7&theme=dracula"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioSC01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/)
+  
