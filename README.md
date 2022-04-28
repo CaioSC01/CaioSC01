@@ -11,6 +11,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSC01&layout=compact&langs_count=7&theme=codeSTACKr"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioSC01&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
 </div>
+ https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
  <h3 align="center">Languages and Tools</h3>
 <p align="center">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
