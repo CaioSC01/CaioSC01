@@ -7,8 +7,8 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/ in/www.linkedin.com/in/caiosilva-costa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/ master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/caiosilva-costa" height="30" width="40" /></a>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-</p>
+[<a href="https://linkedin.com/ in/www.linkedin.com/in/caiosilva-costa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/ master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/caiosilva-costa" height="30" width="40" /></a>
+</p>]
 
 
 
