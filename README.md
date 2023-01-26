@@ -19,7 +19,11 @@
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Caiosc01&" alt="Caiosc01" /></p>
 
+ <h3 >development technology I use</h3>
  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
+          
 
 
   
