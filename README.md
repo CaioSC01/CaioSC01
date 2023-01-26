@@ -1,9 +1,9 @@
 
 
-<h1 align="center">Olá 👋, sou o Caio Silva</h1>
-<h3 align="center">Sou desenvolvedor front-end no Brasil</h3>
+<h1 align="center">Hello Dev!!👋, My name is Caio Silva</h1>
+<h3 align="center">I'm a front-end developer in Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caiosc01" alt= "caiosc01" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Caiosc01" alt= "Caiosc01" /></a> </p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
@@ -16,7 +16,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSC01&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioSC01&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caiosc01&" alt="caiosc01" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Caiosc01&" alt="Caiosc01" /></p>
 
  
 
