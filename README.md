@@ -3,7 +3,7 @@
 <h1 align="center">Hello Dev!!👋, My name is Caio Silva</h1>
 <h3 align="center">I'm a full stack developer in Brazil</h3>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Caiosc01" alt= "Caiosc01" /></a> </p>
 
 <h3 >connect with me</h3>
 
