@@ -17,7 +17,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSC01&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioSC01&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Caiosc01&" alt="Caiosc01" /></p>
+
 
  <h3 >development technology I use</h3>
  
