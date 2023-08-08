@@ -5,18 +5,8 @@
 
 
 
-<h3 >connect with me</h3>
-
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 
-
-
-<a href="https://github.com/CaioSC01">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSC01&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioSC01&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-</div>
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -49,10 +39,11 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/CaioSC01">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSC01&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioSC01&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+</div>
+
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
